@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded", function () {
             btnEnviar.style.boxShadow = "none";
         });
     }
-    // Função para habilitar/desabilitar o botão com base no primeiro checkbox
+    
 
 });
 
